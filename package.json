@@ -1,0 +1,19 @@
+{
+  "name": "valentin-math",
+  "version": "1.0.0",
+  "description": "a npm test module ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdegenne/valentin-math.git"
+  },
+  "author": "valentin degenne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vdegenne/valentin-math/issues"
+  },
+  "homepage": "https://github.com/vdegenne/valentin-math#readme"
+}
